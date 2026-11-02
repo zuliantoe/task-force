@@ -1,0 +1,1 @@
+<?php require __DIR__ . '/includes/header.php'; ?><section class="card"><h1>403 — Akses Ditolak</h1><p>Role akun Anda tidak berhak mengakses halaman ini.</p><a class="btn" href="dashboard.php">Kembali</a></section><?php require __DIR__ . '/includes/footer.php';
